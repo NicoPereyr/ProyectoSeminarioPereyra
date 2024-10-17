@@ -63,7 +63,7 @@
             // tsbAgregar
             // 
             tsbAgregar.DisplayStyle = ToolStripItemDisplayStyle.Image;
-            tsbAgregar.Image = (Image)resources.GetObject("tsbAgregar.Image");
+            tsbAgregar.Image = Properties.Resources.icons8_fast_forward_48px;
             tsbAgregar.ImageTransparentColor = Color.Magenta;
             tsbAgregar.Name = "tsbAgregar";
             tsbAgregar.Size = new Size(23, 22);
